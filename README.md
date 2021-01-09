@@ -1,7 +1,9 @@
-In this assignment we have built a model for wee classification using CNN
+In this assignment we have built a model for weeds classification using CNN
 
 The model named as final submission model achievs the following:
+
 Training accuracy - 96.5%
+
 Test/validation accuracy - 84.5%
 
 
